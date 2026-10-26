@@ -111,3 +111,11 @@ button:hover { background: #5568d3; }
   border-radius: 8px;
   text-align: center;
 }
+#mensaje-ciudad {
+  display: block;
+  font-size: 13px;
+  min-height: 16px;
+  margin-top: 6px;
+}
+
+.ok { color: #2e7d32; }
